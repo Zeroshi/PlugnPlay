@@ -1,0 +1,35 @@
+﻿<Window x:Class="MSTranslatorTAPDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MSTranslatorTAPDemo"
+        mc:Ignorable="d"
+        Title="Microsoft Translator" Height="400" Width="700">
+    <Grid OpacityMask="#FFC24D4D">
+        <Label x:Name="label" Content="Detect and Translate" HorizontalAlignment="Left" Margin="2,1,0,0" VerticalAlignment="Top" Height="49" FontSize="26.667"/>
+        <TextBox x:Name="textToTranslate" HorizontalAlignment="Left" Height="23" Margin="42,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="175" FontSize="14"/>
+        <Label x:Name="EnterTextLabel" Content="Enter text to translate" HorizontalAlignment="Left" Margin="39,53,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <Label x:Name="selectLabel" Content="Select a language to translate to:" HorizontalAlignment="Left" Margin="42,161,0,0" VerticalAlignment="Top" FontSize="14"/>
+
+        <Button x:Name="translateButton" Content="Translate" HorizontalAlignment="Left" Margin="39,259,0,0" VerticalAlignment="Top" Width="163" Height="44" Click="translateButton_Click" FontSize="14"/>
+        <Label x:Name="translatedTextLabel" Content="" HorizontalAlignment="Left" Margin="234,263,0,0" VerticalAlignment="Top" Width="450" FontSize="14" Height="66"/>
+
+        <Button x:Name="DetectButton" Content="Detect Language" HorizontalAlignment="Center" Margin="234,71,272.333,0" VerticalAlignment="Top" Width="187" Height="36" Click="DetectButton_Click" FontSize="14"/>
+        <Label x:Name="DetectLabel" Content="" HorizontalAlignment="Center" Margin="446,63,10.333,0" VerticalAlignment="Top" Width="237" FontSize="14" Height="66"/>
+        <ComboBox x:Name="LanguageComboBox" 
+                HorizontalAlignment="Left" 
+                Margin="42,206,0,0" 
+                VerticalAlignment="Top" 
+                Width="187" FontSize="14">
+
+
+
+
+        </ComboBox>
+
+
+
+
+    </Grid>
+</Window>

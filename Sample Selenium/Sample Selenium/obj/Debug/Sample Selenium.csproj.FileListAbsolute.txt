@@ -1,0 +1,22 @@
+D:\SampleApp\Sample Selenium\Sample Selenium\bin\Debug\Sample Selenium.dll.config
+D:\SampleApp\Sample Selenium\Sample Selenium\bin\Debug\Sample Selenium.dll
+D:\SampleApp\Sample Selenium\Sample Selenium\bin\Debug\Sample Selenium.pdb
+D:\SampleApp\Sample Selenium\Sample Selenium\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\SampleApp\Sample Selenium\Sample Selenium\bin\Debug\WebDriver.dll
+D:\SampleApp\Sample Selenium\Sample Selenium\bin\Debug\WebDriver.Support.dll
+D:\SampleApp\Sample Selenium\Sample Selenium\bin\Debug\WebDriver.xml
+D:\SampleApp\Sample Selenium\Sample Selenium\bin\Debug\WebDriver.Support.xml
+D:\SampleApp\Sample Selenium\Sample Selenium\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\SampleApp\Sample Selenium\Sample Selenium\obj\Debug\Sample Selenium.dll
+D:\SampleApp\Sample Selenium\Sample Selenium\obj\Debug\Sample Selenium.pdb
+D:\SampleApp\Automation PoC\Sample Selenium\Sample Selenium\bin\Debug\Sample Selenium.dll.config
+D:\SampleApp\Automation PoC\Sample Selenium\Sample Selenium\bin\Debug\Sample Selenium.dll
+D:\SampleApp\Automation PoC\Sample Selenium\Sample Selenium\bin\Debug\Sample Selenium.pdb
+D:\SampleApp\Automation PoC\Sample Selenium\Sample Selenium\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\SampleApp\Automation PoC\Sample Selenium\Sample Selenium\bin\Debug\WebDriver.dll
+D:\SampleApp\Automation PoC\Sample Selenium\Sample Selenium\bin\Debug\WebDriver.Support.dll
+D:\SampleApp\Automation PoC\Sample Selenium\Sample Selenium\bin\Debug\WebDriver.xml
+D:\SampleApp\Automation PoC\Sample Selenium\Sample Selenium\bin\Debug\WebDriver.Support.xml
+D:\SampleApp\Automation PoC\Sample Selenium\Sample Selenium\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\SampleApp\Automation PoC\Sample Selenium\Sample Selenium\obj\Debug\Sample Selenium.dll
+D:\SampleApp\Automation PoC\Sample Selenium\Sample Selenium\obj\Debug\Sample Selenium.pdb
