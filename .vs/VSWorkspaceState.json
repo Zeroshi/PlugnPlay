@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DetectTranslate"
+    "\\DetectTranslate\\MSTranslatorTAPDemo",
+    "\\x-Platform",
+    "\\x-Platform\\x-Platform",
+    "\\x-Platform\\x-Platform\\x_Platform.iOS"
   ],
-  "SelectedNode": "\\DetectTranslate\\DetectTranslate.sln",
+  "SelectedNode": "\\x-Platform",
   "PreviewInSolutionExplorer": false
 }
