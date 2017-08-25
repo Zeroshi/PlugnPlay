@@ -1,0 +1,63 @@
+{
+	"variables": [],
+	"info": {
+		"name": "Sample",
+		"_postman_id": "97f6e75f-e341-775c-3bff-85f406f4ee0e",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Request for search",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"",
+							"tests[\"Body matches string\"] = responseBody.has(\"Google Bldg 42\");"
+						]
+					}
+				}
+			],
+			"request": {
+				"url": {
+					"raw": "http://maps.googleapis.com/maps/api/geocode/xml?address=1600+Amphitheatre+Parkway,+Mountain+View,+CA&sensor=false",
+					"protocol": "http",
+					"host": [
+						"maps",
+						"googleapis",
+						"com"
+					],
+					"path": [
+						"maps",
+						"api",
+						"geocode",
+						"xml"
+					],
+					"query": [
+						{
+							"key": "address",
+							"value": "1600+Amphitheatre+Parkway,+Mountain+View,+CA",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "sensor",
+							"value": "false",
+							"equals": true,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": "\t\t"
+			},
+			"response": []
+		}
+	]
+}
