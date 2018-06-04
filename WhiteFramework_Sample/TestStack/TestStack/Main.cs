@@ -43,14 +43,6 @@ namespace TestStack
             third_page.ThirdWindowTBtnSlider();
             third_page.thirdwindowNode();
         }
-
-       // [TestMethod]
-        //public void fourthpage()
-        //{
-        //    FourthPage four_page = new FourthPage();
-        //    four_page.tstGrid();
-        //}
-
     }
 }
    
