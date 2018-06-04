@@ -11,15 +11,11 @@ namespace ProtractorFramework
     public class UnitTest1
     {
         private static IWebDriver driver;
-      //  public NgWebDriver ngdriver;
         private HomePage homepage = new HomePage();
         [ClassInitialize]
         public static void initializeBrowser(TestContext e)
         {
             driver = DriverProvider.getDriver();
-        
-
-
         }
 
         [TestMethod]
@@ -29,7 +25,6 @@ namespace ProtractorFramework
             driver.Navigate().GoToUrl("https://weather.com/");
             ngdriver.Url = driver.Url;
             homepage.SearchText();
-
         }
 
         [ClassCleanup]
